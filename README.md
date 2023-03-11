@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I'm decently experienced in python, I can do java but if I get the chance I'll use python. I am currently learning web development but I'm not very good yet. I'll do something with this later but for now this is it. Thanks!
+
+Website:
+https://www.yavda1.ga/
 <!--
 **yavda1/yavda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
