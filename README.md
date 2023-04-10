@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm decently experienced in python, I can do java but if I get the chance I'll use python. I am currently learning web development but I'm not very good yet. I'll do something with this later but for now this is it. Thanks!
-
+I'm decently experienced in python, I can do java and javascript but if I get the chance I'll use python.
 Website:
 https://www.yavda1.ga/
 <!--
